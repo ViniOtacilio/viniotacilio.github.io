@@ -52,6 +52,8 @@ dash:
 # Build settings
 theme: jekyll-dash
 
+remote_theme: jekyll-dash
+
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
